@@ -4,7 +4,7 @@
 
 ## 運営者と適用範囲
 
-ターフライドの開発者は、本テスト版について以下のとおり情報を取り扱います。お問い合わせは[問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe-RgRCakQSgFBdzZr2SZVIu6VBafAGUmXt9-bX5uHWPI_eDQ/viewform)からお送りください。
+ターフライドの開発者は、本テスト版について以下のとおり情報を取り扱います。お問い合わせは[問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfDXdjFAEyPFgGy_vWP1-3iDECeUq8MQjU7MNGlYQa2KITDtw/viewform)からお送りください。
 
 ## ゲーム内の保存データ
 
@@ -38,7 +38,7 @@ TestFlightでは、Appleがクラッシュログや利用状況、端末・OS・
 
 個人情報を販売したり、広告目的に利用したりしません。問い合わせフォームの受付・保管にはGoogleが、個別の返信には使用するメールサービスが関与します。これらのサービスの利用のほか、本人の同意がある場合または法令に基づく場合を除き、受け取った情報を第三者へ提供しません。TestFlightから受領する情報については、上記のTestFlightの条件に従います。
 
-開発者が保有する情報の確認、訂正、削除のご希望も、[問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe-RgRCakQSgFBdzZr2SZVIu6VBafAGUmXt9-bX5uHWPI_eDQ/viewform)からご連絡ください。対象とご本人との関係を確認したうえで対応します。
+開発者が保有する情報の確認、訂正、削除のご希望も、[問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfDXdjFAEyPFgGy_vWP1-3iDECeUq8MQjU7MNGlYQa2KITDtw/viewform)からご連絡ください。対象とご本人との関係を確認したうえで対応します。
 
 ## このページと変更のお知らせ
 
